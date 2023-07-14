@@ -1,0 +1,10 @@
+C:\Users\PC\Desktop\la calculadorita\calculadorita\obj\Debug\calculadorita.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\la calculadorita\calculadorita\obj\Debug\calculadorita.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\Desktop\la calculadorita\calculadorita\obj\Debug\calculadorita.Properties.Resources.resources
+C:\Users\PC\Desktop\la calculadorita\calculadorita\obj\Debug\calculadorita.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\la calculadorita\calculadorita\obj\Debug\calculadorita.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\calculadorita.exe.config
+C:\Users\PC\Desktop\la calculadorita\calculadorita\obj\Debug\calculadorita.exe
+C:\Users\PC\Desktop\la calculadorita\calculadorita\obj\Debug\calculadorita.pdb
+C:\Users\PC\Desktop\calculadorita.exe
+C:\Users\PC\Desktop\calculadorita.pdb
