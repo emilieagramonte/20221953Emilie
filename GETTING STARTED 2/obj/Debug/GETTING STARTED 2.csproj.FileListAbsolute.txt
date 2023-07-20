@@ -1,0 +1,11 @@
+C:\Users\PC\Documents\GETTING STARTED 2\GETTING STARTED 2\bin\Debug\GETTING STARTED 2.exe.config
+C:\Users\PC\Documents\GETTING STARTED 2\GETTING STARTED 2\bin\Debug\GETTING STARTED 2.exe
+C:\Users\PC\Documents\GETTING STARTED 2\GETTING STARTED 2\bin\Debug\GETTING STARTED 2.pdb
+C:\Users\PC\Documents\GETTING STARTED 2\GETTING STARTED 2\bin\Debug\LiteDB.dll
+C:\Users\PC\Documents\GETTING STARTED 2\GETTING STARTED 2\bin\Debug\LiteDB.xml
+C:\Users\PC\Documents\GETTING STARTED 2\GETTING STARTED 2\obj\Debug\GETTING STARTED 2.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\GETTING STARTED 2\GETTING STARTED 2\obj\Debug\GETTING STARTED 2.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\Documents\GETTING STARTED 2\GETTING STARTED 2\obj\Debug\GETTING STARTED 2.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\GETTING STARTED 2\GETTING STARTED 2\obj\Debug\GETTING STARTED 2.csproj.CopyComplete
+C:\Users\PC\Documents\GETTING STARTED 2\GETTING STARTED 2\obj\Debug\GETTING STARTED 2.exe
+C:\Users\PC\Documents\GETTING STARTED 2\GETTING STARTED 2\obj\Debug\GETTING STARTED 2.pdb
